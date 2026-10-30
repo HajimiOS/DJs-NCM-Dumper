@@ -37,7 +37,7 @@
 
 ## 使用 / Usage
 
-1. **中文**：把要用的 `.bat`（推荐 **`111Dump-中文版-beta.bat`**）复制或拖进**放有 `.ncm` 的那一层目录**（例如歌单根目录 `TRANCE\`）。`.ncm` 可以在该目录下的任意子文件夹里，不必和 `.bat` 放在同一层。  
+1. **中文**：把要用的 `.bat`（推荐 **`111Dump-中文版-beta.bat`**）复制或拖进**放有 `.ncm` 的那一层目录**（例如歌单根目录）。`.ncm` 可以在该目录下的任意子文件夹里，不必和 `.bat` 放在同一层。  
    **EN**: Copy or drag the `.bat` you want (recommended: **`111Dump-中文版-beta.bat`**) into the **root folder that contains your `.ncm` files** (e.g. your playlist folder). `.ncm` files may sit in subfolders under that root; they do not need to be next to the `.bat`.
 
 2. **中文**：在该目录里**双击**这个 `.bat` 运行（不要只在仓库目录里双击，除非 `.ncm` 就在仓库里）。  
@@ -81,4 +81,3 @@
 
 ---
 
-Made by **TRENCH3**
